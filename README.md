@@ -1,4 +1,4 @@
-# [Project Name]
+# [리피플]
 ## 📌 Overview
 Short description of the project.
 ## 🚀 Features
