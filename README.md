@@ -8,4 +8,4 @@ Short description of the project.
 1. Install dependencies: `npm install`
 2. Run the project: `npm start`
 ## 👥 Contributors
-List team members.# -
+List team members.# - 신예진
